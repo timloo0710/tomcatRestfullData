@@ -10,5 +10,5 @@ JDBC DRIVER , 因為ORACLE 政策，不放在一般的常用的 網上儲存庫�
 
 簡單的帳號/密碼管控。傳參數方式。
 
-
+連線資訊，放在RESOURCES下的SITE.PROPERTIES裏。要換資料庫，在此設定。
 
